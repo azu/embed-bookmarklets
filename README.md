@@ -1,6 +1,6 @@
 # embed-bookmarklets
 
-embed-bookmarklets embed code to ATag fetch from `href=<bookmarklets url>` .
+embed-bookmarklets embed bookmarlets fetched from `href=<bookmarklets url>` to a.href.
 
 ## Installation
 
