@@ -1,0 +1,22 @@
+{
+  "name": "embed-bookmarklets",
+  "description": "embed bookmarklets script",
+  "version": "0.0.1",
+  "homepage": "https://github.com/azu/embed-bookmarklets/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/embed-bookmarklets.git"
+  },
+  "main": "embed-bookmarklets.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "directories" : {
+    "test" : "test/"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/embed-bookmarklets/issues"
+  }
+}
