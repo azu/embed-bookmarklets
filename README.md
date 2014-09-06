@@ -25,6 +25,8 @@ Result ===>
 <p>Drop & Drop <a href="javascript:..." rel="bookmarklets">where-page-in-slide</a> to bookmark toolbar.</p>
 ```
 
+DEMO : [http://azu.github.io/where-page-in-slide/](http://azu.github.io/where-page-in-slide/ "where-page-in-slide")
+
 ## Contributing
 
 1. Fork it!
